@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OutSchoolBigData</string>
+    <string name="go_analysis">开始解析</string>
+    <string name="canndy">canndy算子</string>
+</resources>
